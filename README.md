@@ -2,7 +2,7 @@
 -----------------
 ### I'm a Junior Software Engineer from London
 -----------------
-- 🔭 I’m currently working on a travel app, called Neighbourhhod Nomad, where locals can share their favourite spots with travellers.
+- 🔭 I’m currently working on an e-commerce, where people can search and clothing items to their basket.
 - 🌱 I’m currently learning C++ and developing my TypeScript skills.
 - 👯 I’m looking to collaborate on any projects that will help me develop my skills and challenge myself.
 - 💬 Ask me about anything, I'm always happy to help.
